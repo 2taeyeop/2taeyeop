@@ -1,6 +1,6 @@
 <div align=center>
   
-## 2TAeYeOP
+## 2taeyeop
 
 
 <a href="mailto:xoduq020827@gmail.com">
@@ -8,7 +8,7 @@
 
 <a href="https://www.instagram.com/2taeyeop">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<br>
+<P>
 
 ## 📚 Tech Stack 📚
 
@@ -21,7 +21,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=grey"/>
 <img alt="ReactNative" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/></a>
-<br>
+<p>
 
 ### 🛠 Tools 🛠
 
