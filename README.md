@@ -1,11 +1,14 @@
 <div align="center">
-
-# 👋 It's Taeyeop. You know? <br> 🖥️ To be great Front-End Enginner. 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=It's Taeyeop. You know?&fontSize=50" />
-
+  
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=It's%20Taeyeop.%20You%20know?&fontSize=70&animation=fadeIn&fontAlignY=38&desc=To%20be%20great%20Front-End%20Engineer.&descAlignY=51&descAlign=75"/>
   
   <br>
 
+  ❗반갑습니다❗ <br>
+  FE 개발자로 성장하고픈 이태엽입니다. <br>
+  단순히 동작하는 기능을 넘어, 매끄러운 UI/UX와 최적화된 사용자 경험을 고민합니다. <br>
+  협업의 시너지를 믿으며, 효율적인 역할 분담과 소통을 통해 팀의 성장을 견인합니다. <br><br>
+  
   <a href="mailto:xoduq020827@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href=https://blog.naver.com/2taeyeop><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://www.instagram.com/2taeyeop/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -58,9 +61,6 @@
 <br><br>
 
 ## 📈 Projects
-주요 프로젝트는 강조 카드로, 그 외는 간결한 카드 레이아웃으로 정리했습니다.
-
-<br>
 
 ### ⭐ 주요 프로젝트
 
