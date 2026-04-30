@@ -11,28 +11,19 @@
 
   <br><br><br><br>
 
-  <table align="center" border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.instagram.com/2taeyeop/">
-          <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="mailto:xoduq020827@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://blog.naver.com/2taeyeop">
-          <img src="https://ui-avatars.com/api/?name=N&background=03C75A&color=ffffff&size=128&font-size=0.66&bold=true" width="48" height="48"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-
-
+  <div align="center">
+    <a href="https://www.instagram.com/2taeyeop/">
+      <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:xoduq020827@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://blog.naver.com/2taeyeop">
+      <img src="assets/naver-blog.png" height="48"/>
+    </a>
+  </div>
 </div>
 
 <br><br>
