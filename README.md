@@ -263,8 +263,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=2taeyeop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2taeyeop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Stats](https://github-readme-stats-omega-five-27.vercel.app/api?username=2taeyeop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-omega-five-27.vercel.app/api/top-langs/?username=2taeyeop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
 
 </div>
 
@@ -273,5 +273,6 @@
 ![Streak](https://streak-stats.demolab.com?user=2taeyeop&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 <br><br>
