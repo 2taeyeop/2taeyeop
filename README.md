@@ -273,89 +273,12 @@
 ![Streak](https://streak-stats.demolab.com?user=2taeyeop&theme=tokyonight&hide_border=true)
 
 </div>
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats-omega-five-27.vercel.app/api?username=2taeyeop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats-omega-five-27.vercel.app/api/top-langs/?username=2taeyeop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=2taeyeop&theme=tokyonight&hide_border=true)
-
-</div>
 
 <br>
 
 ### Detailed Stats (Including Organization)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.71%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 403 Bytes Used in GitHub's Storage 
- > 
-> 🏆 869 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1838 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌆 Daytime                3826 commits        ███████████████░░░░░░░░░░   58.13 % 
-🌃 Evening                722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌙 Night                  196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Tuesday                  1466 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Wednesday                1406 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Thursday                 1068 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Saturday                 185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Sunday                   222 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
-
-
- Last Updated on 30/04/2026 05:25:48 UTC
 <!--END_SECTION:waka-->
 
 
