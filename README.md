@@ -54,16 +54,16 @@
 
 ## Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="32%" valign="top">
 
-### 디스이즈 - DSIS
+### <img src="assets/projects/dsis-thumb.png" height="24" align="center"/> 디스이즈 - DSIS
+
+**개발 팀장**  
+**`2022.09 ~ 진행중`**
 
 > 대학교 학생을 위한 필수 정보 앱
-
-**`2022.09 ~ 진행중`**  
-**개발 팀장**
 
 ---
 
@@ -103,16 +103,18 @@
 </tr>
 </table>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
 <td width="32%" valign="top">
 
-### Muzig.ai
+### <img src="assets/projects/muzig-thumb.png" height="24" align="center"/> Muzig.ai
+
+**Front-End**  
+**`2025.09 ~ 진행중`**
 
 > AI 음악 생성 사이트
-
-**`2025.09 ~ 진행중`**  
-**Front-End**
 
 ---
 
@@ -146,16 +148,18 @@
 </tr>
 </table>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
 <td width="32%" valign="top">
 
-### 직직직
+### <img src="assets/projects/3jik-thumb.png" height="24" align="center"/> 직직직
+
+**Front-End**  
+**`2025.09 ~ 진행중`**
 
 > 현장을 위한 더 나은 인력 연결 플랫폼
-
-**`2025.09 ~ 진행중`**  
-**Front-End**
 
 ---
 
@@ -187,7 +191,6 @@
 </td>
 </tr>
 </table>
-
 
 
 <br>
@@ -227,19 +230,14 @@
     <td align="center">개발 팀장</td>
   </tr>
   <tr>
-    <td align="center" nowrap><code>2022.09 ~ 2024.01</code></td>
-    <td><b>디스이즈 (DSIS, This is)</b></td>
-    <td align="center">FE 팀원</td>
+    <td align="center" nowrap><code>2024.04 ~ 2024.11</code></td>
+    <td><b>BITS (Busan IT Society)</b></td>
+    <td align="center">운영진</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2024.03 ~ 2024.12</code></td>
     <td><b>창업 동아리 쓸모</b></td>
     <td align="center">앱 1인 개발</td>
-  </tr>
-  <tr>
-    <td align="center" nowrap><code>2024.04 ~ 2024.11</code></td>
-    <td><b>BITS (Busan IT Society)</b></td>
-    <td align="center">운영진</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2024.02 ~ 2024.06</code></td>
@@ -251,8 +249,29 @@
     <td><b>GDG (Google Developer Group)</b></td>
     <td align="center">멤버</td>
   </tr>
+  <tr>
+    <td align="center" nowrap><code>2022.09 ~ 2024.01</code></td>
+    <td><b>디스이즈 (DSIS, This is)</b></td>
+    <td align="center">FE 팀원</td>
+  </tr>
 </table>
 
 
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=2taeyeop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2taeyeop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=2taeyeop&theme=tokyonight&hide_border=true)
+
+</div>
 
 <br><br>
