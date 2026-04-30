@@ -3,20 +3,25 @@
 
   <br>
 
-  ❗반갑습니다❗ <br>
-  FE 개발자로 성장하고픈 이태엽입니다. <br>
-  단순히 동작하는 기능을 넘어, 매끄러운 UI/UX와 최적화된 사용자 경험을 고민합니다. <br>
-  협업의 시너지를 믿으며, 효율적인 역할 분담과 소통을 통해 팀의 성장을 견인합니다. <br><br>
+<div align="center">
+<br><br><br><br>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Taeyeop+%F0%9F%91%8B;Front-End+Developer;Crafting+UI+%26+UX;Believing+in+Team+Synergy"/>
+</a>
 
-  <a href="mailto:xoduq020827@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://blog.naver.com/2taeyeop">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/2taeyeop/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+<br><br><br><br>
+
+</div>
+<a href="mailto:xoduq020827@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://blog.naver.com/2taeyeop">
+  <img src="https://img.shields.io/badge/Blog-FFFFFF?style=for-the-badge&logo=naver&logoColor=03C75A"/>
+</a>
+<a href="https://www.instagram.com/2taeyeop/">
+  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
 </div>
 
 <br><br>
@@ -24,6 +29,7 @@
 ## Tech Stacks
 
 #### Frontend
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,18 +39,21 @@
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
 
 #### Backend
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 #### DevOps / Infra
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### Etc
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
@@ -206,12 +215,12 @@
 
 ## Rewards
 
-| 대회명 | 수상일자 | 성과 |
-| :--- | :---: | :---: |
-| Korea StartUp Forum (KSF) 주최 2025 Project Root-B IR 피칭 대회 | `2025.09` | **대상** |
-| 부산 RISE 창업경진대회 | `2025.09` | **최우수상** |
-| ML 고객 페르소나 기반 시장 검증 및 창업 시뮬레이션 경진 대회 | `2025.11` | **대상 (1위)** |
-| 멋쟁이사자처럼 애니멀리그 4월 | `2026.04` | **1위** |
+| 대회명                                                          | 수상일자  |      성과      |
+| :-------------------------------------------------------------- | :-------: | :------------: |
+| Korea StartUp Forum (KSF) 주최 2025 Project Root-B IR 피칭 대회 | `2025.09` |    **대상**    |
+| 부산 RISE 창업경진대회                                          | `2025.09` |  **최우수상**  |
+| ML 고객 페르소나 기반 시장 검증 및 창업 시뮬레이션 경진 대회    | `2025.11` | **대상 (1위)** |
+| 멋쟁이사자처럼 애니멀리그 4월                                   | `2026.04` |    **1위**     |
 
 <br>
 
@@ -279,70 +288,69 @@
 ### Detailed Stats (Including Organization)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.71%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 403 Bytes Used in GitHub's Storage 
- > 
+> 📦 403 Bytes Used in GitHub's Storage
+>
 > 🏆 869 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 8 Public Repositories
+>
+> 🔑 2 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                1838 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌆 Daytime                3827 commits        ███████████████░░░░░░░░░░   58.13 % 
-🌃 Evening                722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌙 Night                  196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+🌞 Morning                1838 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 %
+🌆 Daytime                3827 commits        ███████████████░░░░░░░░░░   58.13 %
+🌃 Evening                722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+🌙 Night                  196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Tuesday                  1466 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Wednesday                1406 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Friday                   1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Saturday                 185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Sunday                   222 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 %
+Tuesday                  1466 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 %
+Wednesday                1406 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 %
+Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Friday                   1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 %
+Saturday                 185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Sunday                   222 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Seoul
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 %
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 %
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 %
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
+Last Updated on 30/04/2026 05:37:20 UTC
 
- Last Updated on 30/04/2026 05:37:20 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
