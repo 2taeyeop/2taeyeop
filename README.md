@@ -10,7 +10,7 @@
   협업의 시너지를 믿으며, 효율적인 역할 분담과 소통을 통해 팀의 성장을 견인합니다. <br><br>
   
   <a href="mailto:xoduq020827@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href=https://blog.naver.com/2taeyeop><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="https://blog.naver.com/2taeyeop"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://www.instagram.com/2taeyeop/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </div>
 
@@ -29,7 +29,6 @@
 
 ### ⚛️ Frameworks & Libraries
 <p>
-  
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/>
@@ -43,18 +42,15 @@
 </p>
 
 ### 🛠️ Tools & Platforms
-
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
@@ -95,13 +91,13 @@
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/>
   <img alt="CSS Modules" src="https://img.shields.io/badge/CSS Modules-white.svg?&style=flat-square&logo=cssmodules&logoColor=black"/>
-  <img alt="React Hook Form" src="https://img.shields.io/badge/React Custom Hook-EC5990.svg?&style=flat-square&logo=reacthookform&logoColor=white"/>
+  <img alt="React Custom Hook" src="https://img.shields.io/badge/React Custom Hook-EC5990.svg?&style=flat-square&logo=reacthookform&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
 - **역할**: 프론트
 - **성과**: 사이트 런칭
-- **담당 업무**: Next.js App Router 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비지니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, 코드 리펙토링
+- **담당 업무**: Next.js App Router 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비즈니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, 코드 리펙토링
 
 ---
 
@@ -116,7 +112,7 @@
 
 - **역할**: 프론트
 - **성과**: 사이트 런칭 및 서비스 개발
-- **담당 업무**: React 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비지니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, Google Play · App Store 런칭
+- **담당 업무**: React 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비즈니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, Google Play · App Store 런칭
 
 <br>
 <br>
@@ -127,7 +123,7 @@
 | :--- | :---: | :--- |
 | Korea StartUp Forum (KSF) 주최 2025 Project Root-B IR 피칭 대회 | `2025.09` | 대상 |
 | 부산 RISE 창업경진대회  | `2025.09` | 최우수상 |
-| ML 고객 페르소나 기반 시장 검증 및 창업 시뮬레이션 경진 대회 | `2026.11` | 대상 (1위) |
+| ML 고객 페르소나 기반 시장 검증 및 창업 시뮬레이션 경진 대회 | `2025.11` | 대상 (1위) |
 | 멋쟁이사자처럼 애니멀리그 4월 | `2026.04` | 1위 |
 
 <br><br>
@@ -137,9 +133,9 @@
 ### 👨🏻‍💻 현재 진행 중인 활동
 | 기간 | 소속 및 활동명 | 직위 / 역할 |
 | :---: | :--- | :---: |
-| `26.02 ~ 현재` | **멋쟁이 사자처럼 14기** | FE 운영 |
+| `26.02 ~ 현재` | **멋쟁이 사자처럼 14기** | FE 운영진 |
 | `25.09 ~ 현재` | **아티움 그룹 - Muzig.ai** | 계약직 |
-| `24.01 ~ 현재` | **디스이즈 (DSIS, This is)** | 개발 팀장 |
+| `24.02 ~ 현재` | **디스이즈 (DSIS, This is)** | 개발 팀장 |
 | `22.09 ~ 24.01` | **디스이즈 (DSIS, This is)** | FE 팀원 |
 
 
@@ -160,4 +156,3 @@
 </details>
 
 <br><br>
-
