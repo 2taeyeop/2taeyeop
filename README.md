@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Hyeongjun%20Kim&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&fontAlignY=30&animation=fadeIn" width="100%" />
-
-  <br>
 
   👋 It's Taeyeop. You know? <br>
   🖥️ To be great Front-End Enginner. <br><br>
