@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 It's Taeyeop. You know? <br> 🖥️ To be great Front-End Enginner. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=It's Taeyeop. You know?&fontSize=90" />
 
   
   <br>
