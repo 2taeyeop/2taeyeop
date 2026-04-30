@@ -1,10 +1,8 @@
 <div align="center">
 
   #👋 It's Taeyeop. You know? <br>
-  ##🖥️ To be great Front-End Enginner. <br><br>
-  안녕하세요! 끈기있게 도전하여 성장하는 김형준입니다! <br>
-  프론트엔드 개발자로 사용자에게 보다 편리한 UI UX를 제공하고 싶습니다. <br>
-  팀 프로젝트를 진행하고, 역할을 분담하여 협업하는 과정을 즐깁니다. <br>
+  ##🖥️ To be great Front-End Enginner. <br>
+
   
   <br>
 
