@@ -46,7 +46,7 @@
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,mariadb," />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis" />
 </p>
 
 #### DevOps / Infra
@@ -56,7 +56,7 @@
 
 #### Etc
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,androidstudio,notion,selenium,cpp,c,openai" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,androidstudio,notion,selenium,cpp,c" />
 </p>
 
 <br>
