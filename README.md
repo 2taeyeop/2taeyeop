@@ -1,6 +1,6 @@
 <div align="center">
 
-#👋 It's Taeyeop. You know? <br>
+# 👋 It's Taeyeop. You know? <br>
 ## 🖥️ To be great Front-End Enginner. <br>
 
   
