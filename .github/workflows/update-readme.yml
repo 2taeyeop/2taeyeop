@@ -1,0 +1,30 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: "00000000-0000-0000-0000-000000000000"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_UPDATED_DATE: "True"
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "2taeyeop"
+          LOCALE: "en"
