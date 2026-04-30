@@ -58,7 +58,7 @@
 <tr>
 <td width="32%" valign="top">
 
-### 📱 디스이즈 - DSIS
+### 디스이즈 - DSIS
 
 > 대학교 학생을 위한 필수 정보 앱
 
@@ -87,7 +87,7 @@
 🍎 [App Store](https://apps.apple.com/kr/app/디스이즈/id1550249063)
 
 </td>
-<td width="68%" valign="top">
+<td width="68%" valign="middle">
 
 **Key Contributions**
 
@@ -107,7 +107,7 @@
 <tr>
 <td width="32%" valign="top">
 
-### 🎵 Muzig.ai
+### Muzig.ai
 
 > AI 음악 생성 사이트
 
@@ -130,7 +130,7 @@
 🌐 [muzig.ai](https://muzig.ai)
 
 </td>
-<td width="68%" valign="top">
+<td width="68%" valign="middle">
 
 **Key Contributions**
 
@@ -150,7 +150,7 @@
 <tr>
 <td width="32%" valign="top">
 
-### 📈 직직직
+### 직직직
 
 > 현장을 위한 더 나은 인력 연결 플랫폼
 
@@ -173,7 +173,7 @@
 🌐 [3jik.com](https://www.3jik.com/)
 
 </td>
-<td width="68%" valign="top">
+<td width="68%" valign="middle">
 
 **Key Contributions**
 
@@ -187,6 +187,7 @@
 </td>
 </tr>
 </table>
+
 
 
 <br>
@@ -206,60 +207,52 @@
 
 <table>
   <tr>
-    <th width="30%">기간</th>
-    <th width="20%">누적</th>
-    <th width="30%">소속</th>
-    <th width="20%">역할</th>
+    <th width="35%">기간</th>
+    <th width="40%">소속</th>
+    <th width="25%">역할</th>
   </tr>
   <tr>
     <td align="center" nowrap><code>2026.02 ~ 현재</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/진행중-3DDC84?style=flat-square"/></td>
     <td><b>멋쟁이 사자처럼 14기</b></td>
     <td align="center">FE 운영진</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2025.09 ~ 현재</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/진행중-3DDC84?style=flat-square"/></td>
     <td><b>아티움 그룹 - Muzig.ai</b></td>
     <td align="center">계약직</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2024.02 ~ 현재</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/진행중-3DDC84?style=flat-square"/></td>
     <td><b>디스이즈 (DSIS, This is)</b></td>
     <td align="center">개발 팀장</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2022.09 ~ 2024.01</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/17_months-708090?style=flat-square"/></td>
     <td><b>디스이즈 (DSIS, This is)</b></td>
     <td align="center">FE 팀원</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2024.03 ~ 2024.12</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/10_months-708090?style=flat-square"/></td>
     <td><b>창업 동아리 쓸모</b></td>
     <td align="center">앱 1인 개발</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2024.04 ~ 2024.11</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/8_months-708090?style=flat-square"/></td>
     <td><b>BITS (Busan IT Society)</b></td>
     <td align="center">운영진</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2024.02 ~ 2024.06</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/5_months-708090?style=flat-square"/></td>
     <td><b>미래 내일 일 경험</b></td>
     <td align="center">인턴</td>
   </tr>
   <tr>
     <td align="center" nowrap><code>2023.03 ~ 2023.12</code></td>
-    <td align="center" nowrap><img src="https://img.shields.io/badge/10_months-708090?style=flat-square"/></td>
     <td><b>GDG (Google Developer Group)</b></td>
     <td align="center">멤버</td>
   </tr>
 </table>
+
 
 
 <br><br>
