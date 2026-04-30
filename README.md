@@ -81,7 +81,14 @@
 
 - **역할**: 개발 팀장
 - **성과**: Google Play 배포 ([다운로드](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject)) / App Store 배포 ([다운로드](https://apps.apple.com/kr/app/디스이즈/id1550249063))
-- **담당 업무**: React Native 컴포넌트 제작, React 기반 웹뷰 호환 사이트 제작, 반응형 디자인 구현, 컴포넌트 분리 및 재사용성 개선, 마이그레이션 (React Native -> React), FE·BE 배포, cicd 파이프라인 구축
+- **담당 업무**:
+  - **개발 리딩**: 팀원 코드 리뷰, 개발 일정·이슈 관리, 기술 의사결정 주도
+  - **앱 개발**: React Native 기반 크로스플랫폼 컴포넌트 제작 및 네이티브 연동
+  - **웹뷰 연동**: React 기반 웹뷰 호환 사이트 제작으로 앱·웹 콘텐츠 통합
+  - **구조 개선**: 컴포넌트 분리·재사용성 개선, React Native → React 마이그레이션 주도
+  - **반응형 구현**: 다양한 디바이스(모바일·태블릿) 대응 UI 설계
+  - **배포 & 인프라**: AWS·Docker·NGINX 기반 FE·BE 배포 및 CI/CD 파이프라인 구축
+  - **스토어 배포**: Google Play · App Store 정식 출시 및 업데이트 운영
 
 ---
 
@@ -95,9 +102,16 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
-- **역할**: 프론트
+- **역할**: Front-End
 - **성과**: 사이트 런칭
-- **담당 업무**: Next.js App Router 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비즈니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, 코드 리펙토링
+- **담당 업무**:
+  - **프로젝트 설계**: Next.js App Router 기반 프로젝트 구조 설계 및 라우팅·레이아웃 구성
+  - **로직 분리**: Custom Hooks 패턴 도입으로 UI와 비즈니스 로직(API 호출, 상태 관리) 분리
+  - **타입 안정성**: TypeScript 기반 인터페이스 설계로 런타임 에러 사전 방지
+  - **스타일링**: CSS Modules 기반의 스코프 격리 스타일링 시스템 구축
+  - **사용자 경험**: AI 음악 생성 흐름에 맞춘 로딩·피드백 UX 최적화
+  - **반응형 구현**: 모바일·데스크톱 대응 반응형 UI 설계
+  - **코드 품질**: 컴포넌트 재사용성 개선 및 지속적인 코드 리팩토링
 
 ---
 
@@ -106,13 +120,21 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 </p>
 
-- **역할**: 프론트
+- **역할**: Front-End
 - **성과**: 사이트 런칭 및 서비스 개발
-- **담당 업무**: React 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비즈니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, Google Play · App Store 런칭
+- **담당 업무**:
+  - **프로젝트 설계**: Vite + React + TypeScript 기반 프로젝트 구조 설계 및 개발
+  - **상태 관리**: 상태 관리 라이브러리(Recoil/Zustand/Redux) 도입 및 전역 상태 설계
+  - **로직 분리**: Custom Hooks 패턴 도입으로 UI와 비즈니스 로직(API 호출, 상태 관리) 분리
+  - **앱 개발**: React Native 기반 모바일 앱 개발 및 웹·앱 공통 로직 추출
+  - **반응형 구현**: 반응형 UI 구현 및 사용자 인터랙션 최적화
+  - **스토어 배포**: Google Play · App Store 런칭 및 심사 대응
+
 
 <br>
 <br>
