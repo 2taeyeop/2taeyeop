@@ -4,24 +4,27 @@
   <br>
 
 <div align="center">
-<br><br><br><br>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Taeyeop+%F0%9F%91%8B;Front-End+Developer;Crafting+UI+%26+UX;Believing+in+Team+Synergy"/>
-</a>
+  <br><br><br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Taeyeop+%F0%9F%91%8B;Front-End+Developer;Crafting+UI+%26+UX;Believing+in+Team+Synergy"/>
+  </a>
 
-<br><br><br><br>
+  <br><br><br><br>
 
-</div>
-<a href="mailto:xoduq020827@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://blog.naver.com/2taeyeop">
-  <img src="https://img.shields.io/badge/Blog-FFFFFF?style=for-the-badge&logo=naver&logoColor=03C75A"/>
-</a>
-<a href="https://www.instagram.com/2taeyeop/">
-  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
+  <p align="center">
+    &nbsp;
+    <a href="https://www.instagram.com/2taeyeop/">
+      <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+    </a>
+    &nbsp;
+     <a href="mailto:xoduq020827@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="54"/>
+    </a>
+    &nbsp;
+    <a href="https://blog.naver.com/2taeyeop">
+        <img src="https://api.iconify.design/simple-icons:naver.svg?color=%2303C75A" width="44" height="44"/>
+    </a>
+  </p>
 </div>
 
 <br><br>
@@ -29,39 +32,24 @@
 ## Tech Stacks
 
 #### Frontend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-191919?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite" />
+</p>
 
 #### Backend
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,mariadb," />
+</p>
 
 #### DevOps / Infra
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,github" />
+</p>
 
 #### Etc
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,androidstudio,notion,selenium,cpp,c,openai" />
+</p>
 
 <br>
 
@@ -106,7 +94,7 @@
 
 **Key Contributions**
 
-- **개발 리딩** — 개발 일정·이슈 관리, 기술 의사결정 주도
+- **개발 리딩** — 팀원 코드 리뷰, 개발 일정·이슈 관리, 기술 의사결정 주도
 - **앱 개발** — React Native 기반 크로스플랫폼 컴포넌트 제작 및 네이티브 연동
 - **웹뷰 연동** — React 기반 웹뷰 호환 사이트 제작으로 앱·웹 콘텐츠 통합
 - **구조 개선** — 컴포넌트 분리·재사용성 개선, React Native → React 마이그레이션 주도
