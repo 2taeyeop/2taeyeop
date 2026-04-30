@@ -11,20 +11,28 @@
 
   <br><br><br><br>
 
-  <p align="center">
-    &nbsp;
-    <a href="https://www.instagram.com/2taeyeop/">
-      <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-    </a>
-    &nbsp;
-     <a href="mailto:xoduq020827@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="54"/>
-    </a>
-    &nbsp;
-    <a href="https://blog.naver.com/2taeyeop">
-        <img src="https://api.iconify.design/simple-icons:naver.svg?color=%2303C75A" width="44" height="44"/>
-    </a>
-  </p>
+  <table align="center" border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.instagram.com/2taeyeop/">
+          <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="mailto:xoduq020827@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://blog.naver.com/2taeyeop">
+          <img src="https://ui-avatars.com/api/?name=N&background=03C75A&color=ffffff&size=128&font-size=0.66&bold=true" width="48" height="48"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
+
 </div>
 
 <br><br>
