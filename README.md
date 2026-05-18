@@ -275,15 +275,13 @@
 ### Detailed Stats (Including Organization)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 535 Bytes Used in GitHub's Storage 
+> 📦 543 Bytes Used in GitHub's Storage 
  > 
-> 🏆 1,003 Contributions in the Year 2026
+> 🏆 1,026 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -291,41 +289,11 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I Mostly Code in TypeScript** 
 
 ```text
-🌞 Morning                1899 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-🌆 Daytime                3964 commits        ██████████████░░░░░░░░░░░   57.44 % 
-🌃 Evening                842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌙 Night                  196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1133 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Tuesday                  1601 commits        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Wednesday                1420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Thursday                 1118 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Friday                   1184 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Saturday                 185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Sunday                   260 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
+TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
@@ -338,7 +306,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 03:36:16 UTC
+ Last Updated on 18/05/2026 03:50:32 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
