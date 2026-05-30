@@ -275,6 +275,8 @@
 ### Detailed Stats (Including Organization)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -289,6 +291,36 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1971 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+🌆 Daytime                4098 commits        ██████████████░░░░░░░░░░░   57.29 % 
+🌃 Evening                888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+🌙 Night                  196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1150 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Tuesday                  1701 commits        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Wednesday                1447 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Thursday                 1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Friday                   1219 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Saturday                 185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Sunday                   309 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -306,7 +338,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 03:45:00 UTC
+ Last Updated on 30/05/2026 03:33:37 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
