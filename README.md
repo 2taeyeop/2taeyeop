@@ -275,13 +275,11 @@
 ### Detailed Stats (Including Organization)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 762 Bytes Used in GitHub's Storage 
+> 📦 768 Bytes Used in GitHub's Storage 
  > 
 > 🏆 1,131 Contributions in the Year 2026
  > 
@@ -338,7 +336,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 03:38:01 UTC
+ Last Updated on 07/06/2026 04:05:06 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
