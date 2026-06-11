@@ -281,7 +281,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 769 Bytes Used in GitHub's Storage 
+> 📦 790 Bytes Used in GitHub's Storage 
  > 
 > 🏆 1,137 Contributions in the Year 2026
  > 
@@ -338,7 +338,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 03:54:30 UTC
+ Last Updated on 11/06/2026 04:06:52 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
