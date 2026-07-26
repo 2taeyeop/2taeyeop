@@ -275,6 +275,8 @@
 ### Detailed Stats (Including Organization)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -336,7 +338,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:46:08 UTC
+ Last Updated on 26/07/2026 02:54:24 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
