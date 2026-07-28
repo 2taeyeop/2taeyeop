@@ -275,7 +275,7 @@
 ### Detailed Stats (Including Organization)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -294,21 +294,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2795 commits        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-🌆 Daytime                5404 commits        ██████████████░░░░░░░░░░░   57.73 % 
-🌃 Evening                965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-🌙 Night                  197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+🌞 Morning                2759 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+🌆 Daytime                5353 commits        ██████████████░░░░░░░░░░░   57.72 % 
+🌃 Evening                965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+🌙 Night                  197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1581 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Tuesday                  2374 commits        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Wednesday                1789 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Thursday                 1465 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Friday                   1585 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Saturday                 200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Sunday                   367 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Monday                   1566 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Tuesday                  2347 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Wednesday                1744 commits        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Thursday                 1465 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Friday                   1585 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Sunday                   367 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
@@ -319,6 +319,12 @@ Sunday                   367 commits         █░░░░░░░░░░�
 
 🔥 Editors: 
 No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -338,7 +344,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:18:14 UTC
+ Last Updated on 28/07/2026 02:38:00 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
