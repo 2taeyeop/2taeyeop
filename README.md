@@ -114,7 +114,7 @@
 ### <img src="assets/projects/muzig-thumb.png" height="24" align="center"/> Muzig.ai
 
 **Front-End**  
-**`2025.09 ~ 진행중`**
+**`2025.09 ~ 2026.04`**
 
 > AI 음악 생성 사이트
 
