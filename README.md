@@ -179,6 +179,8 @@
 **Links**
 
 🌐 [3jik.com](https://www.3jik.com/)
+📲 [Google Play](https://play.google.com/store/apps/details?id=com.jikjkjikrnworker)  
+🍎 [App Store](https://apps.apple.com/kr/app/직직직/id6761361656)
 
 <p>&nbsp;</p>
 
