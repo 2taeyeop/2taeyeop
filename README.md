@@ -225,7 +225,7 @@
     <td align="center">FE 운영진</td>
   </tr>
   <tr>
-    <td align="center" nowrap><code>2025.09 ~ 현재</code></td>
+    <td align="center" nowrap><code>2025.09 ~ 2026.04</code></td>
     <td><b>아티움 그룹 - Muzig.ai</b></td>
     <td align="center">계약직</td>
   </tr>
