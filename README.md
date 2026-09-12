@@ -279,7 +279,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -296,21 +296,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3371 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌆 Daytime                6541 commits        ██████████████░░░░░░░░░░░   55.07 % 
-🌃 Evening                1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-🌙 Night                  365 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+🌞 Morning                3371 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+🌆 Daytime                6541 commits        ██████████████░░░░░░░░░░░   54.97 % 
+🌃 Evening                1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+🌙 Night                  380 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1999 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Tuesday                  2957 commits        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Wednesday                2297 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Thursday                 2220 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Friday                   1826 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Saturday                 211 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Sunday                   367 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Monday                   1999 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Tuesday                  2957 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+Wednesday                2297 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Thursday                 2228 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Friday                   1841 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 211 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Sunday                   367 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
 
@@ -346,7 +346,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 03:27:55 UTC
+ Last Updated on 12/09/2026 03:33:29 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
