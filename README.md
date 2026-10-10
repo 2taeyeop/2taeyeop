@@ -283,7 +283,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 2.1 kB Used in GitHub's Storage 
+> 📦 2.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,982 Contributions in the Year 2026
  > 
@@ -346,7 +346,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2taeyeop/2taeyeop/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 05:01:45 UTC
+ Last Updated on 10/10/2026 04:46:36 UTC
 <!--END_SECTION:waka-->
 </details>
 <br><br>
